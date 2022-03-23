@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I graduated in 2021 from the Helsinki University <a href="htts://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme" target="_blank">Master Programme </a> of Linguistic Diversity and Digital Humanities on the <a href="https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying/structure-content-and-study-tracks" target="_blank">Language Technology</a> track.
 
-I’m currently studying Full Stack Web Development at <a href="https://en.bc.fi/qualifications/full-stack-web-developer-program/" target="_blank">Business College Helsinki</a>. I’m looking for an internship/trainee place, I'm available starting from May or June.
+I’m currently studying Full Stack Web Development at <a href="https://en.bc.fi/qualifications/full-stack-web-developer-program/" target="_blank">Business College Helsinki</a>.
 
 ## Languages and Tools:
 <p>
