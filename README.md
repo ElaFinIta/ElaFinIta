@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 
 ### Hi there 👋:smile_cat::deciduous_tree:
 
-I graduated in 2021 from the Helsinki University <a href="htts://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme" target="_blank">Master Programme </a> of Linguistic Diversity and Digital Humanities on the <a href="https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying/structure-content-and-study-tracks" target="_blank">Language Technology</a> track.
+I'm currently working on a software for teaching and learning languages 💚🔝
 
-I’m currently studying Full Stack Web Development at <a href="https://en.bc.fi/qualifications/full-stack-web-developer-program/" target="_blank">Business College Helsinki</a>.
+In 2022 I finished my studies in Full Stack Web Development at <a href="https://en.bc.fi/qualifications/full-stack-web-developer-program/" target="_blank">Business College Helsinki</a>.
+
+I also graduated in 2021 from the Helsinki University <a href="htts://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme" target="_blank">Master Programme </a> of Linguistic Diversity and Digital Humanities on the <a href="https://www.helsinki.fi/en/degree-programmes/linguistic-diversity-and-digital-humanities-masters-programme/studying/structure-content-and-study-tracks" target="_blank">Language Technology</a> track.
+
+
 
 ## Languages and Tools:
 <p>
